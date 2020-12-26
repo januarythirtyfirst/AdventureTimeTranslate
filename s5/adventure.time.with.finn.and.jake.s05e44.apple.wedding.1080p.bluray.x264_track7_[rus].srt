@@ -50,10 +50,12 @@
 13
 00:00:41,290 --> 00:00:44,640
 Коричный Пряник! Ты что вообще делал в лесу?!
+Cinnamon bun! What did you do in the forest? / What the heck are you doing in the woods?
 
 14
 00:00:44,640 --> 00:00:48,210
-Я же 20 минут назад попросила тебя разнести напитки всем гостям.
+Я же 20 минут назад попросила тебя разнести напитки всем гостям. 
+I have asked you to bring drinks to all guests 20 minutes ago / I asked you 20 minutes ago to take these drinks around for us
 
 15
 00:00:48,210 --> 00:00:55,360
@@ -63,13 +65,17 @@
 00:00:48,210 --> 00:00:52,240
 О-о! Хо! Разнести всем гостям!
 
+Take these drinks around for us.
+
 17
 00:00:52,240 --> 00:00:55,360
 А я-то подумал, ты просила меня сходить в зоопарк...
+I thought you said "Walk to the zoo and back"
 
 18
 00:00:55,360 --> 00:00:55,940
 Боже!
+Gosh!
 
 19
 00:00:56,640 --> 00:00:57,410
@@ -78,6 +84,7 @@
 20
 00:00:59,090 --> 00:01:01,940
 Финн! Теперь барменом будет Коричный Пряник!
+Finn! Cinnamon bun is gonna tend the juice bar now
 
 21
 00:01:01,940 --> 00:01:04,060
