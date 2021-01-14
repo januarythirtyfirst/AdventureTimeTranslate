@@ -13,6 +13,7 @@
 4
 00:00:14,420 --> 00:00:15,910
 Бери с собой друзей.
+Grab your friends
 
 5
 00:00:15,960 --> 00:00:18,570
@@ -51,7 +52,6 @@
 00:00:41,290 --> 00:00:44,640
 Коричный Пряник! Ты что вообще делал в лесу?!
 Cinnamon bun! What did you do in the forest? / What the heck are you doing in the woods?
-dfgdfg
 
 14
 00:00:44,640 --> 00:00:48,210
