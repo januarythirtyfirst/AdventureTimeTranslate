@@ -1,6 +1,5 @@
-# Adventure-Time-Translate
-![](/img/016.jpg)
-this is our project  
-the favourite show and study english language  
-__it's f##ng red boots!!!!__  
-
+# Adventure-Time-Translate 
+<p align="right">
+  <img src="/img/016.jpg">
+</p>  
+__it's f##ng red boots!!!!__
