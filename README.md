@@ -1,7 +1,7 @@
 <img align="right" src="/img/016.jpg">##adventute time translate##
-- [ ] :tangerine:create repo
-- [ ] :apple:add contributers
-- [ ] create project 
+- [x] :tangerine:  create repo
+- [x] :apple:  add contributors
+- [x] create project 
 -
 -
 -
