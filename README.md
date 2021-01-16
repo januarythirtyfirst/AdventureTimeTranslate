@@ -1,4 +1,3 @@
-adventute time translate  
 <p align="right">
   <img src="/img/016.jpg">
-</p>  
+</p>  adventute time translate  
