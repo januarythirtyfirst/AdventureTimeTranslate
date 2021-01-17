@@ -2,7 +2,7 @@
 
 there are our links  
 [wiki](https://github.com/SophiaOrekhova/AdventureTimeTranslate/wiki)
-![wiki](https://github.com/SophiaOrekhova/AdventureTimeTranslate/blob/main/img/006.jpg)
+![wiki](https://github.com/SophiaOrekhova/AdventureTimeTranslate/blob/main/img/wiki.png)
 
 
 
