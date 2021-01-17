@@ -9,4 +9,4 @@ they're our links
 
 [there's a project, welcome!](https://github.com/SophiaOrekhova/AdventureTimeTranslate/projects/2)
 
-<img src="https://github.com/SophiaOrekhova/AdventureTimeTranslate/blob/main/img/projects.png" width="37%"></img>    
+<img src="https://github.com/SophiaOrekhova/AdventureTimeTranslate/blob/main/img/projects1.png" width="37%"></img>    
