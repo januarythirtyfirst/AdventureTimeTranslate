@@ -1,13 +1,13 @@
 # AdventureTimeTranslate <img align="right" src="/img/016.jpg">
 they're our links  
 
-hello 2 3 4 5  
-1
+**hello**  
+
 [there's a wiki, welcome!](https://github.com/SophiaOrekhova/AdventureTimeTranslate/wiki)
 
-<img src="https://github.com/SophiaOrekhova/AdventureTimeTranslate/blob/main/img/009_1.jpg" width="37%"></img>
+<img src="img/009_1.jpg" width="37%"></img>
 
 
 [there's a project, welcome!](https://github.com/SophiaOrekhova/AdventureTimeTranslate/projects/2)
 
-<img src="https://github.com/SophiaOrekhova/AdventureTimeTranslate/blob/main/img/projects1.png" width="37%"></img>    
+<img src="img/projects1.png" width="37%"></img>    
