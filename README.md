@@ -1,7 +1,7 @@
 # AdventureTimeTranslate <img align="right" src="/img/016.jpg">
 they're our links  
 
-hello
+hello 2 
 
 [there's a wiki, welcome!](https://github.com/SophiaOrekhova/AdventureTimeTranslate/wiki)
 
