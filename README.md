@@ -2,7 +2,7 @@
 they're our links  
 
 **hello**  
-1  
+1  2
 
 [there's a wiki, welcome!](https://github.com/SophiaOrekhova/AdventureTimeTranslate/wiki)
 
