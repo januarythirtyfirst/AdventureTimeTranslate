@@ -1,4 +1,10 @@
 # AdventureTimeTranslate <img align="right" src="/img/016.jpg">
+road map  
+1. **create project**  
+1.1 template - `automated canban`  
+1.2 
+1. open text  
+2. 
 they're our links  
 
 [there's a wiki, welcome!](https://github.com/SophiaOrekhova/AdventureTimeTranslate/wiki)
