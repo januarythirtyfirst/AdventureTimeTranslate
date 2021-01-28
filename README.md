@@ -1,10 +1,14 @@
 # AdventureTimeTranslate <img align="right" src="/img/016.jpg">
 road map  
-1. **create project**  
-1.1 template - `automated canban`  
-1.2 
-1. open text  
-2. 
+---
+>1. **create project**  
+>1.1 template - `automated canban`  
+>1.2 clean - `archive all card`  
+>1.3 create issue - `add new note` - `convert to issue`
+>
+
+
+
 they're our links  
 
 [there's a wiki, welcome!](https://github.com/SophiaOrekhova/AdventureTimeTranslate/wiki)
