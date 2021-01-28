@@ -1,5 +1,5 @@
 # AdventureTimeTranslate <img align="right" src="/img/016.jpg">
-road map  
+<img align="left" src="img/gitfinn.jpg" width="20%">road map  
 
 1. **create project**   
 >1.1 template - `automated canban`  
@@ -13,7 +13,7 @@ road map
 >
 >
 >
-<img align="left" src="img/gitfinn.jpg" width="20%">
+
 
 
 they're our links  
