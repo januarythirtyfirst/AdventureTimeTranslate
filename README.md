@@ -1,19 +1,19 @@
 # AdventureTimeTranslate <img align="right" src="/img/016.jpg">
 road map  
----
->1. **create project**  <img align="right" src="img/gitfinn.jpg" width="27%"></img> 
+
+1. **create project**   
 >1.1 template - `automated canban`  
 >1.2 clean - `archive all card`  
 >1.3 create issue - `add new note` - `convert to issue`
 >_note_  
 >_create seven issue for a week every sunday_  
 ---  
->2.**translate text**  
+2.**translate text**  
 >2.1 
 >
 >
 >
-
+<img align="left" src="img/gitfinn.jpg" width="20%">
 
 
 they're our links  
