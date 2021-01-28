@@ -4,7 +4,7 @@
 1. **create project**   
 >1.1 template - `automated canban`  
 >1.2 clean - `archive all card`  
->1.3 create issue - `add new note` - `convert to issue`
+>1.3 create issue - `add new note` - `convert to issue`  
 >_note_  
 >_create seven issue for a week every sunday_  
 ---  
