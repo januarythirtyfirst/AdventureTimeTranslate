@@ -1,4 +1,4 @@
-# AdventureTimeTranslate <img align="right" src="/img/016.jpg">
+# AdventureTimeTranslate <img align="right" src="img/016.jpg">
 <img align="left" src="img/gitfinn.jpg" width="20%">road map  
 
 1. **create project**   
