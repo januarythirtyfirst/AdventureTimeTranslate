@@ -1,5 +1,5 @@
 # AdventureTimeTranslate <img align="right" src="img/016.jpg">
-<img align="left" src="img/gitfinn.jpg" width="20%">road map  
+road map  
 
 1. **create project**   
 >1.1 template - `automated canban`  
@@ -25,4 +25,8 @@ they're our links
 
 [there's a project, welcome!](https://github.com/SophiaOrekhova/AdventureTimeTranslate/projects/2)
 
-<img src="img/projects1.png" width="37%"></img>    
+<img src="img/projects1.png" width="37%"></img>  
+
+they're issues  
+
+<img align="left" src="img/gitfinn.jpg" width="20%">
