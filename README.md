@@ -7,8 +7,7 @@ road map
 >1.3 create issue - `add new note` - `convert to issue`  
 >_note_  
 >_create seven issue for a week every sunday_  
----  
-2.**translate text**  
+2. **translate text**  
 >2.1 
 >
 >
