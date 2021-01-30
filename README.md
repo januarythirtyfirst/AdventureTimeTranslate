@@ -8,9 +8,9 @@ road map
 >_note:_  
 >_create seven issue for a week every sunday_    
 2. ## translate text   
->2.1 `1 hour`  
->2.2 _before commit check_ - `create new brunch`  
->2.2.1 _rename_ - `date, number of line`  
+>2.1 - `1 hour`  
+>2.2 - _before commit check_ - `create new brunch`  
+>2.2.1 - _rename_ - `date, number of line`  
 >.  
 >.  
 >.  
