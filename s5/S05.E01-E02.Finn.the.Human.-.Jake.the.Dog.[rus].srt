@@ -409,7 +409,7 @@ I'm sorry, Bartrum.
 99
 00:02:57,560 --> 00:03:00,220
 Наверное, у папы большие неприятности, раз меня просят об этом.
-Maybe, dad have a big problem, if he asks me to.
+Dad has a big problem, if he asks me to.
 100
 00:03:00,220 --> 00:03:00,670
 Но...
@@ -417,7 +417,7 @@ But...
 101
 00:03:00,670 --> 00:03:03,420
 Уверен, мы найдём хорошего человека, которому нужен мул!
-I sure, we find a good man, who need mul!
+I'm sure, we will find a good man, who needs mul!
 102
 00:03:03,670 --> 00:03:04,020
 Да!
@@ -425,7 +425,7 @@ Yes!
 103
 00:03:04,400 --> 00:03:06,240
 Может, я смогу иногда тебя навещать!
-Maybe, i can visit you sometimes!
+Maybe, i will be able to visit you sometimes!
 104
 00:03:06,660 --> 00:03:07,980
 Это же здорово, Бартрум!
@@ -449,7 +449,7 @@ What?!
 109
 00:03:14,220 --> 00:03:15,950
 Бар-Бар, как ты туда забрался?!
-Bar-Bar, how you to climb there?!
+Bar-Bar, how did you to climb there?!
 110
 00:03:16,420 --> 00:03:17,510
 Эх...
@@ -477,7 +477,7 @@ Is unbelievable!
 116
 00:03:26,760 --> 00:03:28,640
 Мы можем продать её и оставить Бартрума!
-We can to sell it is and leave Bartrum!
+We can sell it is and leave Bartrum!
 117
 00:03:28,640 --> 00:03:29,310
 Бам-Бам!
@@ -493,7 +493,7 @@ Who are you?!
 120
 00:03:32,230 --> 00:03:36,880
 Мне 1000 лет и это моя корона!
-I'm 1000 years and it's crown is mine!
+I'm 1000 years and this crown is mine!
 121
 00:03:37,060 --> 00:03:38,150
 Да, ладно-ладно!
@@ -529,11 +529,11 @@ NO-O-O!!!
 129
 00:03:45,660 --> 00:03:47,750
 Эта Корона волшебная!
-It's crown is magical!
+It's crown is magic!
 130
 00:03:47,750 --> 00:03:49,680
 В ней плохое, ужасное волшебство!
-It's bad and terrible magic!
+Bad and terrible magic!
 131
 00:03:49,680 --> 00:03:52,720
 Слишком опасное, для простых смертных!
@@ -549,7 +549,7 @@ Like you!
 134
 00:03:55,950 --> 00:03:59,560
 ...мой возлюбленный друг Саймон Петриков...
-...my great friend Simon Petricov...
+...my beloved friend Simon Petrikov...
 135
 00:03:59,560 --> 00:04:03,560
 ...отдал свою жизнь, чтобы спасти эту дурацкую, недостойную...
