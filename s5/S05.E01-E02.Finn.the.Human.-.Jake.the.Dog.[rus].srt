@@ -1432,11 +1432,11 @@ I don't belive you!
 343
 00:11:06,940 --> 00:11:07,830
 Что, правда?
-What is true?
+What, is it true?
 344
 00:11:07,830 --> 00:11:08,350
 Стой...
-Stay...
+Wait...
 345
 00:11:08,350 --> 00:11:09,110
 НЕТ!!!
@@ -1444,11 +1444,11 @@ NO!!!
 346
 00:11:09,110 --> 00:11:09,780
 Блин!!!
-Fuck!!!
+Dammit!!!
 347
 00:12:04,210 --> 00:12:05,390
 Ледяная Молния!!!
-Ice Falsh!!!
+Ice Flash!!!
 348
 00:12:07,670 --> 00:12:08,360
 Ах!
@@ -1456,7 +1456,7 @@ Ah!
 349
 00:12:08,360 --> 00:12:09,270
 Вот, отстой!
-So, the suck!
+That sucks!
 350
 00:12:15,370 --> 00:12:16,880
 Что происходит?!
@@ -1468,7 +1468,7 @@ Bar-Bar!
 352
 00:12:19,450 --> 00:12:20,550
 Я тебя спасу!
-I save you!
+I'll save you!
 353
 00:12:29,670 --> 00:12:30,270
 Финн?
@@ -1488,15 +1488,15 @@ Where is my bro?
 357
 00:12:34,590 --> 00:12:37,880
 О! Когда он пожелал, чтобы Лич никогда не существовал....
-O! When he wanted, Lich never never existed...
+O! When he wished, Lich never existed...
 358
 00:12:38,910 --> 00:12:42,480
 ...Финн покинул мою Временную Комнату и попал в изменённую своим желанием реальность.
-...Finn left my Timing Room and was in chaged room with his wish reality.
+...Finn left my Time Room and got in the changed reality by wishing it.
 359
 00:12:42,480 --> 00:12:44,680
 Мы можем понаблюдать за ним на моей ТВ-стене.
-We can watch him on my TB-wall
+We can watch him on my TV-wall.
 360
 00:12:47,850 --> 00:12:49,630
 О-о-ой!
@@ -1508,7 +1508,7 @@ Wow!
 362
 00:12:50,520 --> 00:12:52,910
 В изменённой реальности Финн такой урод!
-In changed reality Finn so ugly!
+Finn is so ugly in the changed reality!
 363
 00:12:53,880 --> 00:12:55,630
 Блин! Я тоже урод!
@@ -1524,7 +1524,7 @@ Yes!
 366
 00:13:00,690 --> 00:13:03,290
 Иногда, даже желание с добрыми намерениями может привести...
-Sometimes, the wish with good intentions can to stay...
+Sometimes, the wish with good intents can lead to...
 367
 00:13:03,510 --> 00:13:04,600
 ...к полному хаосу!
@@ -1552,7 +1552,7 @@ Without talk!
 373
 00:13:10,750 --> 00:13:12,000
 БЕЗ ЗВУКА
-WITHOUT SOUND
+SOUND OFF
 374
 00:13:12,210 --> 00:13:14,160
 Можешь пожелать всё, что захочешь!
@@ -1572,7 +1572,7 @@ Sandwich?!
 378
 00:13:18,070 --> 00:13:20,370
 Ты хочешь потратить единственное желание на бутерброд?!
-You want to waste your own wish on sandwich?!
+Do you want to waste your own wish for a sandwich?!
 379
 00:13:20,450 --> 00:13:21,970
 А ничего другого не хочешь?
@@ -1580,11 +1580,11 @@ Maybe you want something different?
 380
 00:13:22,150 --> 00:13:23,600
 Не, бутер сойдёт!
-No, i want sandwich!
+No, I want sandwich!
 381
 00:13:23,600 --> 00:13:24,990
 Вот такого размера!
-That's size!
+That size!
 382
 00:13:24,990 --> 00:13:25,840
 Или даже...
