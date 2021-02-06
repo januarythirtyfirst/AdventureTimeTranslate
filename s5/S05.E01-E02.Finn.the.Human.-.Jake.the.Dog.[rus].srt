@@ -1600,15 +1600,15 @@ Maybe, on bread with butter.
 385
 00:13:28,400 --> 00:13:29,600
 Хм, ну не знаю...
-Hm, i don't know...
+Hm, I don't know...
 386
 00:13:29,600 --> 00:13:31,240
 Сделай из чего найдёшь, на твой вкус!
-Do 
+Make it with stuff, that you will find as you like!
 387
 00:13:31,240 --> 00:13:33,240
 Чувак! Я просто сделаю тебе бутер!
-
+Dude! I just will make you a sandwich!
 388
 00:13:33,140 --> 00:13:36,350
 БЕЗ ЗВУКА
@@ -1616,7 +1616,7 @@ SOUND OFF
 389
 00:13:33,430 --> 00:13:35,550
 Потрать своё желание на что-нибудь важное!
-
+Use your wish for something important!
 390
 00:13:36,730 --> 00:13:37,590
 Ну, знаешь...
@@ -1656,7 +1656,7 @@ Who did it?!
 399
 00:13:59,070 --> 00:14:00,240
 Это я!
-This me!
+This is me!
 400
 00:14:00,240 --> 00:14:02,190
 Нет! Это невозможно!
@@ -1664,11 +1664,11 @@ No! It's not possible!
 401
 00:14:02,530 --> 00:14:04,430
 Я воспитала тебя хорошим мальчиком!
-I learned you to be a good boy!
+I raised you to be a good boy!
 402
 00:14:04,430 --> 00:14:05,470
 Я не вру!
-I don't lying
+I don't lie!
 403
 00:14:07,840 --> 00:14:08,910
 Ах!
@@ -1716,7 +1716,7 @@ Ah...
 414
 00:14:30,190 --> 00:14:32,330
 Я слишком опасен, чтобы быть рядом с вами!
-I'm too dangerous, be near with you!
+I'm too dangerous to be with you!
 415
 00:14:32,440 --> 00:14:33,490
 Что ты делаешь?!
@@ -1752,7 +1752,7 @@ Yes!
 423
 00:14:45,800 --> 00:14:47,690
 Ну что же, это его желание!
-So, it's him the wish!
+So, it's his wish!
 424
 00:14:47,690 --> 00:14:49,250
 Посмотрим, как всё обернётся!
@@ -1764,7 +1764,7 @@ I’m sure of my boy!
 426
 00:14:52,430 --> 00:14:55,440
 Кроме того, я приберегу своё желание, пока оно мне понадобится!
-And i save my wish!
+Besides, I save my wish till I'll need it!
 427
 00:14:55,950 --> 00:14:57,120
 Ой...
@@ -1772,15 +1772,15 @@ Oh...
 428
 00:14:57,120 --> 00:14:58,970
 Не расстраивайся, чувак! У меня их много!
-Don't worry, dude! I have many!
+Don't worry, dude! I have many of these!
 429
 00:15:00,000 --> 00:15:00,970
 Домашняя закатка!
-?
+
 430
 00:15:01,430 --> 00:15:02,680
 Как же я люблю тебя, Призмо!
-I love you so much, Prizmo!
+I love you so much, Prismo!
 431
 00:15:02,790 --> 00:15:03,750
 Ой...
@@ -1788,19 +1788,19 @@ Oh...
 432
 00:15:06,350 --> 00:15:07,730
 Я серьёзно, чел!
-I'm serious, dude
+I'm serious, dude!
 433
 00:15:07,730 --> 00:15:10,950
 Ты на стабильном 3 месте в моём списке клёвых чуваков!
-You're in third place in my list for cool guys!
+You're in third place in my list of cool guys!
 434
 00:15:11,010 --> 00:15:13,130
 Ой, чел! Мой батя делал маринованные огурчики!
-Oh, dude! My dad did the salt pickles!
+Oh, dude! My dad made the salt pickles!
 435
 00:15:13,130 --> 00:15:14,570
 Так любил болтать о них!
-I loved talking about them!
+He loved talking about them!
 436
 00:15:14,570 --> 00:15:16,570
 Он был ими просто одержим!
@@ -1816,15 +1816,15 @@ Sometimes,  I’ll go to them to play...
 439
 00:15:21,150 --> 00:15:22,920
 И они всегда были хрустящими!
-And it was so crispy!
+And they was so crispy!
 440
 00:15:22,920 --> 00:15:25,610
 Вообще, ты думаешь, они будут мягкими. Но нет!
-You think, it is soft. But no!
+You think, they will be soft. But no!
 441
 00:15:25,610 --> 00:15:28,630
 И я такой: "Ого! Пап, огурцы получились просто обалденными!"
-And i said: "Wow! Dad, the cucumbers so good!"
+And i said: "Wow! Dad, the cucumbers are so good!"
 442
 00:15:28,630 --> 00:15:29,150
 Гы!
