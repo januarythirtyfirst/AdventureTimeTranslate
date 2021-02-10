@@ -1,0 +1,5 @@
+#Main rules
+title: "adventure time translate"
+remote_theme: pmarsceill/just-the-docs  
+color_scheme: "light"
+search_enabled: true 
