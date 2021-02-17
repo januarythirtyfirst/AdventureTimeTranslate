@@ -41,15 +41,15 @@ and Finn the human,
 10
 00:00:21,000 --> 00:00:22,850
 нам весело всегда!
-We're happy always!
+The fun will never end!
 11
 00:00:22,850 --> 00:00:24,800
 Приключений Пора...
-Adventure Time...
+It's adventure Time...
 12
 00:00:25,810 --> 00:00:28,200
 ЕЩЁ ПЯТЬ КОРОТКИХ ШКАЗОК
-FIVE SHORT FAIRY TALES 
+MORE FIVE SHORT FAIRY TALES 
 13
 00:00:25,810 --> 00:00:28,200
 По словам сценаристов, слово grable - аналог слова fable .
@@ -75,11 +75,11 @@ So, hello!
 18
 00:00:39,360 --> 00:00:42,080
 Бейбл лейвл! Рад вас видеть!
-Beibl leivl! Nice to see you!
+Bable lavle! Nice to see you!
 19
 00:00:42,140 --> 00:00:44,500
 Полагаю, вы пришли за новыми шказками? Ну что же...
-I think, you are need the new firy tales? So...
+I suppose, you need the new firy tales? So...
 20
 00:00:44,500 --> 00:00:45,380
 Ладно!
@@ -91,7 +91,7 @@ So, how it was at last time...
 22
 00:00:46,740 --> 00:00:49,120
 ...посмотрите 5 отдельных историй...
-...look 5 individual stories...
+...look 5 separate stories...
 23
 00:00:49,120 --> 00:00:52,500
 ...каждая из которых посвящена одной особой теме!
@@ -131,11 +131,11 @@ Shoo!
 32
 00:01:16,440 --> 00:01:20,210
 Значит так, я вполне уверен, что это - книга заклинаний колдуна!
-So, i'm shure, that this - book of spell sorcerer!
+So, i'm sure this is a book of sorcerer's spells!
 33
 00:01:22,620 --> 00:01:23,800
 Какая потёртая!
-How is lacked!
+It is lacked!
 34
 00:01:23,940 --> 00:01:25,050
 Колдунство, чувак!
@@ -143,15 +143,15 @@ Magic, dude!
 35
 00:01:25,620 --> 00:01:28,080
 Готов к древним заклинаниям по улучшению самочувствия?
-Are you ready for ancient for better my health?
+Are you ready for ancient spells for better health?
 36
 00:01:28,140 --> 00:01:29,140
 Ну, давай попробуем!
-Let's to try!
+Let's try!
 37
 00:01:29,140 --> 00:01:30,530
 Я всегда готов ощущать себя лучше!
-I'm always ready to feel myself better!
+I am always ready to feel better!
 38
 00:01:30,610 --> 00:01:33,240
 На самом деле Джейк нашёл книжку детских стишков.
@@ -159,11 +159,11 @@ Actually Jake found the book of nursery rhymes.
 39
 00:01:30,610 --> 00:01:32,820
 Посмотрим...
-Okey...
+Okay...
 40
 00:01:33,070 --> 00:01:34,420
 Надел слюнявчик?
-Do you wear the bib?
+Did you wear the bib?
 41
 00:01:34,420 --> 00:01:35,170
 Зацени!
@@ -195,7 +195,7 @@ And singing loud:
 47
 00:01:48,130 --> 00:01:50,730
 "Какой я хороший мальчик!"
-"I'm so good boy!"
+"I'm such a good boy!"
 48
 00:01:53,460 --> 00:01:55,130
 Что-то я не чувствую себя хорошим мальчиком!
