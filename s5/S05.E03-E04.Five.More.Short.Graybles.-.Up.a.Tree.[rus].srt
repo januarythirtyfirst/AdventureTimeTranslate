@@ -190,7 +190,7 @@ We'll go to very distant lands
 
 47
 00:01:48,130 --> 00:01:50,730
-"Какой я хороший мальчик!"
+" what a good boy am I!!"
 
 48
 00:01:53,460 --> 00:01:55,130
@@ -199,7 +199,7 @@ We'll go to very distant lands
 49
 00:01:55,130 --> 00:01:56,780
 Уверен, что правильно прочитал заклинание?
-Do you shure, you read this spell is right?
+Are you sure you read the spell truly?
 50
 00:01:57,130 --> 00:01:57,760
 Ага!
@@ -211,11 +211,11 @@ And...
 52
 00:01:59,810 --> 00:02:00,680
 ...пирог такой сладкий!
-...the pie so sweet!
+...the pie is so sweet!
 53
 00:02:00,920 --> 00:02:03,160
 Хочешь, будем всюду пихать свои пальцы, пока не сработает?
-Do you want, we will put our finger in this, before it's begin to working?
+Wanna keep sticking our thumb in stuff until it works?
 54
 00:02:03,160 --> 00:02:03,820
 Да!
@@ -223,35 +223,35 @@ Yes!
 55
 00:02:05,840 --> 00:02:08,250
 О-о-о... какой я хороший мальчик!
-O-o-o... i'm so good boy!
+O-o-o...  what a good boy am I!!
 56
 00:02:08,250 --> 00:02:09,540
 О, какой я хороший мальчик!
-O, i'm so good boy!
+O,    what a good boy am I!
 57
 00:02:09,540 --> 00:02:10,810
 О, какой я хороший мальчик!
-O, i'm so good boy!
+O,   what a good boy am I!
 58
 00:02:11,690 --> 00:02:12,650
 О, какой я хороший мальчик!
-O, i'm so good boy!
+O,   what a good boy am I!
 59
 00:02:13,660 --> 00:02:14,780
 О, какой я хороший мальчик!
-O, i'm so good boy!
+O,    what a good boy am I!
 60
 00:02:15,940 --> 00:02:16,850
 О, какой я хороший мальчик!
-O, i'm so good boy!
+O,   what a good boy am I!
 61
 00:02:18,360 --> 00:02:19,660
 О, какой я хороший мальчик!
-O, i'm so good boy!
+O,   what a good boy am I!
 62
 00:02:20,930 --> 00:02:22,420
 О, какой я хороший... э...
-O, i'm so good boy... a...
+O,  what a good boy am I! ... a...
 63
 00:02:23,530 --> 00:02:25,300
 Ну что, ощущаешь себя хорошим мальчиком?
@@ -267,7 +267,7 @@ Hey! Check out this nasty frog!
 66
 00:02:31,800 --> 00:02:33,420
 О, какой я хороший мальчик!
-O, i'm so good boy!
+O,   what a good boy am I!
 67
 00:02:32,880 --> 00:02:33,380
 Фу!
@@ -279,7 +279,7 @@ Stop it!
 69
 00:02:34,890 --> 00:02:36,570
 Хватит тыкать в меня пальцами!
-Stop to put on on me your finger!
+Stop sticking your thumbs in my back
 70
 00:02:38,740 --> 00:02:40,180
 Ну... я не знаю.
@@ -323,7 +323,7 @@ I can't find this!
 80
 00:03:09,580 --> 00:03:13,250
 У него есть гитара, на которой можно играть самые пряные гитарные партии во всём Ууу!
-He has guitr, and on this you can to play the most spicy guitr parts in the every Ooo!
+He's got a guitar that plays the coolest licks in Ooo!
 81
 00:03:21,000 --> 00:03:21,850
 Хэ...
@@ -355,7 +355,7 @@ Thank you, man!
 88
 00:03:48,050 --> 00:03:49,780
 Эй! Давай поищем больше дырок!
-Hey! Let's to find more big hole!
+Hey! Let's find more holes!
 89
 00:03:54,530 --> 00:03:55,740
 О, какой я хороший мальчик!
@@ -379,7 +379,7 @@ Oh!
 94
 00:04:00,690 --> 00:04:01,640
 Привет, Хоботок!
-Hi, Treetronks!
+Hi, tree trunks!
 95
 00:04:01,640 --> 00:04:03,440
 Простите, сэр!
