@@ -3,7 +3,7 @@
 
 [there's a wiki, welcome!](/pin/539869074064025148/)
 
-<img src="img/009_1.jpg" width="37%"></img>
+<img src="img/018.jpg" width="37%"></img>
 
 
 [there's a project, welcome!](https://github.com/SophiaOrekhova/AdventureTimeTranslate/projects/2)
