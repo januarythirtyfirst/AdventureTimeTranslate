@@ -6,10 +6,4 @@
 <img src="img/019.jpg" width="37%"></img>
 
 
-[there's a project, welcome!](https://github.com/SophiaOrekhova/AdventureTimeTranslate/projects/2)
-
-<img src="img/projects1.png" width="37%"></img>  
-
-they're issues  
-
 
