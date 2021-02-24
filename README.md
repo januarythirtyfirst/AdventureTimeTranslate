@@ -1,7 +1,7 @@
 # AdventureTimeTranslate 
 
 
-<img src="img/019.jpg" width="100%"></img>
+<img src="img/020.jpg" width="100%"></img>
 
 
 
