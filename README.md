@@ -12,4 +12,4 @@
 
 they're issues  
 
-<img align="left" src="img/gitfinn.jpg" width="20%">
+
