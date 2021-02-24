@@ -1,7 +1,7 @@
 # AdventureTimeTranslate <img align="right" src="img/016.jpg">
 
 
-[there's a wiki, welcome!](https://www.pinterest.ru/pin/356065914283413435/)
+[there's a wiki, welcome!](https://www.pinterest.ru/pin/539869074064025148/)
 
 <img src="img/009_1.jpg" width="37%"></img>
 
