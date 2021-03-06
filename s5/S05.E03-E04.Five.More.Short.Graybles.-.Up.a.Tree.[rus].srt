@@ -303,8 +303,7 @@ You look cool!
 78
 00:03:05,090 --> 00:03:07,780
 Ты не в курсе, где находится музыкальная лавка Волшебника Билла?
-Do you know, where is music shop's Magic Bill?
-79
+Do you know,no
 00:03:07,780 --> 00:03:09,580
 Не могу нигде её найти!
 I can't find this! 
